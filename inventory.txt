@@ -1,0 +1,53 @@
+10
+Cannondale Bicycle
+Furnace room
+TREK943793763
+true
+500
+02/12/1996
+Aurora Cycle,Seattle
+Vintage Bike
+C:\HomeJava\HomeJava Projects\Inventory Photos\bike.jpg
+Cup
+My Office
+KFS678
+true
+0.00
+10/15/2000
+Utensils Specials,Seattle
+Coffee Cup
+C:\HomeJava\HomeJava Projects\Inventory Photos\cup.jpg
+Dell Desktop
+My Office
+UIS5634
+false
+18000
+03/05/2001
+Digitech Store,Hawkins
+LCD
+C:\HomeJava\HomeJava Projects\Inventory Photos\dell.jpg
+Toby
+Under the desk
+NO
+true
+678
+11/22/1997
+Puppy House,Leonara
+C:\HomeJava\HomeJava Projects\Inventory Photos\toby.jpg
+TV
+Family Room
+MITEK654
+false
+47980
+11/22/1997
+Circuit City
+C:\HomeJava\HomeJava Projects\Inventory Photos\tv.jpg
+
+5
+Always lost
+Basement Office
+DriveAway
+Furnace Room
+Family Room
+Under the desk
+My Office
